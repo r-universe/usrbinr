@@ -5,3 +5,6 @@
 [submodule "contoso"]
 	path = contoso
 	url = https://github.com/usrbinr/contoso
+[submodule "motherduck"]
+	path = motherduck
+	url = https://github.com/usrbinr/motherduck
