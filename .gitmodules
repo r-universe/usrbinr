@@ -8,3 +8,6 @@
 [submodule "motherduck"]
 	path = motherduck
 	url = https://github.com/usrbinr/motherduck
+[submodule "sqlm"]
+	path = sqlm
+	url = https://github.com/cran/sqlm
