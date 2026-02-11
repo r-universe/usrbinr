@@ -11,3 +11,6 @@
 [submodule "sqlm"]
 	path = sqlm
 	url = https://github.com/cran/sqlm
+[submodule "ti"]
+	path = ti
+	url = https://codeberg.org/usrbinr/ti
