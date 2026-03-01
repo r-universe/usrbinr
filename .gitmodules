@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "contoso"]
 	path = contoso
-	url = https://github.com/usrbinr/contoso
+	url = https://codeberg.org/usrbinr/contoso
 [submodule "motherduck"]
 	path = motherduck
 	url = https://github.com/usrbinr/motherduck
 [submodule "sqlm"]
 	path = sqlm
-	url = https://github.com/cran/sqlm
+	url = https://github.com/usrbinr/sqlm
 [submodule "ti"]
 	path = ti
 	url = https://codeberg.org/usrbinr/ti
